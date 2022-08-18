@@ -1,0 +1,49 @@
+{
+  "keywordFileContentHash": "410BE1F63BF36F4E20785344F52AA60C",
+  "keywordClasses": [
+    {
+      "name": "loginpageKeywords.verifyurl",
+      "keywordMethods": [
+        {
+          "name": "checkurl",
+          "parameters": [
+            {
+              "name": "expected",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\n\t * @author Santhosh Kumar\n\t * @description It will verify both the elements value is equal \n\t * @param expected will compare its defined url with current url\n\t * @param check will print the message of of its activity\n\t */"
+        },
+        {
+          "name": "Verifyurl",
+          "parameters": [
+            {
+              "name": "Expected",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
